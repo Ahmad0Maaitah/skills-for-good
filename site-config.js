@@ -6,7 +6,7 @@
  */
 window.SFG_CONFIG = Object.freeze({
   chainId: 137,
-  contractAddress: "",
-  tokenId: "",
-  openSeaUrl: "https://opensea.io/studio"
+  contractAddress: "0x0D82c27aBb63420e542Bb10a79115bB14d14DC02",
+  tokenId: "1",
+  openSeaUrl: "https://opensea.io/collection/skills-for-good"
 });
